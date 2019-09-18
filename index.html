@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta  charset="UTF-8">
+        <meta name="description" content="This is a website describing my professional experiences">
+        <meta name="author" content="Sumitra Badrinathan">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Sumitra | University of Pennsylvania</title>
+
+        <link rel="stylesheet" type="text/css" href="Styles/SumitraBadrinathan.css">
+        <script src="Scripts/SumitraBadrinathan.js"></script>
+
+    </head>
+
+
+    <body onload="HideDivs()">
+        <div id="divSumitraBadrinathanBody" align="center">
+            <h2 id="headSumitraBadrinathanTitle">
+                Sumitra Badrinathan
+            </h2>
+
+            <table id="tabSectionLabels">
+                <tr>
+                    <td class="SectionHead" onclick="javascript:SwitchPanes('Home')">HOME</td>
+                    <td class="SectionHead" onclick="javascript:SwitchPanes('Teaching')">TEACHING</td>
+                    <td class="SectionHead" onclick="javascript:SwitchPanes('Research')">RESEARCH</td>
+                    <td class="SectionHead"><a id="linkCV" href="Assets/CV.pdf" target="_blank">CV</a></td>
+                </tr>
+            </table>
+
+            <hr id="lineBodyDivider">
+
+            <div id=divAllSections>
+                <div id="divHome" class="SectionBody">
+                    <br>
+                    <div style="position: relative;">
+                        <img id="imgMainPhoto" src="Assets/MainPhoto.png" alt="Photograph">
+                    </div>
+                    <br>
+                    <label class="Credentials">Ph.D student in Political Science</label>
+                    <br>
+                    <label class="Credentials">University of Pennsylvania</label>
+                    <br>
+                    <br>
+                    <p id="paraAboutMe">
+                        I am a third year Ph.D. student in Political Science at the University of Pennsylvania. My research interests include studying media effects and comparative politics, with a regional focus on India.
+                        <br>
+                        <br>
+                        I use experimental and survey methods to study the relationship between newer forms of social media like WhatsApp and their effect on polarization, political participation and quality of democracy.
+                        <br>
+                        <br>
+                        I hold an M.A. in Political Science from the University of Chicago and a B.A. in Psychology from St. Xavier’s College, Mumbai.
+                    </p>
+                    <hr id="lineContactDivider">
+                    <a id="linkEmail" href="mailto:sumitra@sas.upenn.edu" target="_top"><label id="lblContact">GET IN TOUCH</label></a>
+                    <p id="paraContact">
+                        Perelman Center for Political Science and Economics, Office #346
+                        <br>
+                        University of Pennsylvania
+                        <br>
+                        133 S. 36th Street, Philadelphia, Pennsylvania — 19104
+                        <br>
+                        <br>
+                        sumitra@sas.upenn.edu
+                        <br>
+                        <br>
+                        <a href="https://twitter.com/KhariBiskut" target="_blank"><img id="imgTwitter" class="ContactIcon" src="Assets/Twitter.png" alt="Twitter"></a>
+                        <a href="https://www.linkedin.com/in/sumitrab" target="_blank"><img id="imgLinkedIn" class="ContactIcon" src="Assets/LinkedIn.png" alt="LinkedIn" href=""></a>
+                        <a href="https://github.com/SumitraBadrinathan" target="_blank"><img id="imgGitHub" class="ContactIcon" src="Assets/GitHub.png" alt="GitHub"></a>
+                    </p>
+                </div>
+
+                <div id="divTeaching" class="SectionBody">
+                    <br>
+                    <label class="SectionSubtitle">TEACHING EXPERIENCE</label>
+                    <br>
+                    <br>
+                    <p class="TeachingExperience">
+                        I have worked as a teaching assistant for the following courses at the University of Pennsylvania:
+                    </p>
+                    <p class="TeachingExperience">
+                        <span class="TeachingSubheadings">Fall 2018: Statistics for Political Science</span>
+                        <br>
+                        <span class="TeachingInstructor">Instructor: <a class="LinkProfessor" href="https://www.sas.upenn.edu/~marcmere/" target="_blank">Marc Meredith</a></span>
+                        <br>
+                        This class teaches basic tools necessary to conduct quantitative political science research, including descriptive statistics, sampling, probability and statistical theory, and regression analysis, hypothesis testing and research design. It also teaches the implementation of these tools using R.
+                        <br>
+                        <span class="TeachingInstructor">You can find the lab R code in this GitHub <a  class="LinkProfessor" href="https://github.com/SumitraBadrinathan/PSCI-338" target="_blank">repository</a></span>.
+                    </p>
+                    <p class="TeachingExperience">
+                        <span class="TeachingSubheadings">Spring 2018: International Human Rights</span>
+                        <br>
+                        <span class="TeachingInstructor">Instructor: <a class="LinkProfessor" href="http://galton.uchicago.edu/faculty/barber.shtml" target="_blank">Rina Foygel Barber</a></span>
+                    </p>
+                    <p class="TeachingExperience">
+                        <span class="TeachingSubheadings">Fall 2017: Introduction to American Politics</span>
+                        <br>
+                        <span class="TeachingInstructor">Instructor: <a class="LinkProfessor" href="https://www.sas.upenn.edu/~marcmere/" target="_blank">Marc Meredith</a></span>
+                    </p>
+                    <br>
+                    <br>
+                </div>
+
+                <div id="divResearch" class="SectionBody">
+                    <br>
+                    <label class="SectionSubtitle">RESEARCH EXPERIENCE</label>
+                    <br>
+                    <br>
+                    <p class="ResearchExperience" style="text-align: center;">
+                        Will be updated soon!
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+
+</html>
