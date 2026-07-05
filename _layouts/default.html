@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:image" content="{{ '/Assets/photo.jpg' | absolute_url }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="profile">
+  <!-- After registering with Google Search Console, paste its verification meta tag on the next line -->
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Sumitra Badrinathan",
+    "jobTitle": "Assistant Professor of Political Science",
+    "worksFor": { "@type": "Organization", "name": "American University" },
+    "url": "https://sumitrabadrinathan.github.io",
+    "sameAs": [
+      "https://scholar.google.com/citations?user=Ae84Jl4AAAAJ",
+      "https://www.american.edu/sis/faculty/sumitrab.cfm",
+      "https://twitter.com/KhariBiskut"
+    ]
+  }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400;1,9..144,600&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/Styles/custom.css' | relative_url }}">
+</head>
+<body>
+  <nav class="site-nav">
+    <a class="site-name" href="{{ '/' | relative_url }}">Sumitra <span class="accent-name">Badrinathan</span></a>
+    <div class="nav-links">
+      <a href="/#about">About</a>
+      <a href="/#research">Research</a>
+      <a href="{{ '/indian-american-data/' | relative_url }}">Indian American Data</a>
+      <a href="/#contact">Contact</a>
+      <a href="/Assets/CV.pdf">CV</a>
+    </div>
+  </nav>
+  <main class="wrapper">
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <a href="mailto:sumitrab@american.edu">Email</a> ·
+    <a href="https://scholar.google.com/citations?user=Ae84Jl4AAAAJ">Google Scholar</a> ·
+    <a href="https://twitter.com/KhariBiskut">Twitter</a> ·
+    <!-- If you use Bluesky, add: <a href="https://bsky.app/profile/YOUR-HANDLE">Bluesky</a> · -->
+    <a href="https://github.com/SumitraBadrinathan">GitHub</a>
+    <p>&copy; {{ 'now' | date: "%Y" }} Sumitra Badrinathan</p>
+  </footer>
+</body>
+</html>
