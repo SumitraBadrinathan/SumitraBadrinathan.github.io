@@ -55,7 +55,7 @@ going to indie/alternative rock gigs, and cheering (mostly suffering) alongside 
   <p class="pub-title"><a href="https://link.springer.com/article/10.1007/s11109-026-10141-y">Home and Away: Explaining the Paradoxical Political Attitudes of Indian Americans</a></p>
   <p class="pub-journal">Political Behavior · 2026</p>
   <p class="pub-authors">with Devesh Kapur and Milan Vaishnav</p>
-  <p class="pub-links"><a href="Assets/papers/pobe">PDF</a><a href="https://doi.org/10.7910/DVN/K8CKVJ">Replication data</a></p>
+  <p class="pub-links"><a href="Assets/papers/pobe.pdf">PDF</a><a href="https://doi.org/10.7910/DVN/K8CKVJ">Replication data</a></p>
 </div>
 
 <div class="pub">
