@@ -14,7 +14,18 @@ Americans, published with the Carnegie Endowment for International Peace.
 <div class="stats">
   <div class="stat"><p class="stat-number">3</p><p class="stat-label">survey waves since 2020</p></div>
   <div class="stat"><p class="stat-number">7</p><p class="stat-label">Carnegie policy reports</p></div>
-  <div class="stat"><p class="stat-number">NYT · WSJ · BBC</p><p class="stat-label">featured in</p></div>
+</div>
+
+<div class="press-band">
+  <p class="press-band-label">Coverage in</p>
+  <p class="press-band-logos">
+    <a class="wm-nyt" href="URL-HERE">The New York Times</a>
+    <a class="wm-wsj" href="URL-HERE">THE WALL STREET JOURNAL</a>
+    <a href="https://www.bbc.com/news/articles/cx2g4g9qp2no" aria-label="BBC"><span class="bbc-block">B</span><span class="bbc-block">B</span><span class="bbc-block">C</span></a>
+    <a class="wm-caps" href="URL-HERE">REUTERS</a>
+    <a class="wm-italic" href="https://foreignpolicy.com/2024/10/30/indian-americans-election-voting/">Foreign Policy</a>
+    <a class="wm-sans" href="URL-HERE">AL JAZEERA</a>
+  </p>
 </div>
 
 <div class="featured">
