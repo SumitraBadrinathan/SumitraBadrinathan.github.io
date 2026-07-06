@@ -26,7 +26,9 @@ My work spans three substantive areas. (1) Countering misinformation: How can we
 more resilient to falsehoods? (2) Accountability for misinformation: How do we hold elites 
 responsible for spreading false information? (3) Impacts of misinformation: What are the political and societal consequences of misinformation on violence, prejudice, and quality of democracy?
 
-Methodologically, I rely on field experiments, original surveys, and primary data collection. I often collaborate with civil society organizations and government institutions to design projects that evaluate policy impacts and produce actionable evidence. With Devesh Kapur and Milan Vaishnav, I also co-direct the
+Methodologically, I rely on field experiments, original surveys, and primary data collection. I often collaborate with civil society organizations and government institutions to design projects that evaluate policy impacts and produce actionable evidence. 
+
+With Devesh Kapur and Milan Vaishnav, I also co-direct the
 [Indian American Attitudes Survey](/indian-american-data/), the largest ongoing
 study of the political and social lives of Indian Americans. My work has appeared in leading
 journals including the *American Political Science Review* (x3), *British Journal
@@ -48,7 +50,7 @@ and cheering (mostly suffering) alongside Philadelphia sports fans.
   <p class="pub-title"><a href="https://doi.org/10.1017/S0003055425101184">Countering Misinformation Early: Evidence from a Classroom-Based Field Experiment in India</a></p>
   <p class="pub-journal">American Political Science Review · 2026</p>
   <p class="pub-authors">with Priyadarshi Amar, Simon Chauchard, and Florian Sichart</p>
-  <p class="pub-links"><a href="https://tinyurl.com/2tdm8kjs">PDF</a><a href="https://doi.org/10.7910/DVN/G2BK1G">Replication data</a><span class="award-tag">Best Paper in Experimental Research (APSA) 2025</span><span class="award-tag">Best Paper in Political Behavior (APSA)</span></p>
+  <p class="pub-links"><a href="https://tinyurl.com/2tdm8kjs">PDF</a><a href="https://doi.org/10.7910/DVN/G2BK1G">Replication data</a><span class="award-tag">Best Paper in Experimental Research (APSA) </span><span class="award-tag">Best Paper in Political Behavior (APSA)</span></p>
 </div>
 
 <div class="pub">
@@ -62,7 +64,7 @@ and cheering (mostly suffering) alongside Philadelphia sports fans.
   <p class="pub-title"><a href="https://doi.org/10.1017/S0003055424000790">Misinformation and Support for Vigilantism: An Experiment in India and Pakistan</a></p>
   <p class="pub-journal">American Political Science Review · 2025</p>
   <p class="pub-authors">with Simon Chauchard and Niloufer Siddiqui</p>
-  <p class="pub-links"><a href="https://tinyurl.com/yvy7k6jh">PDF</a><a href="https://doi.org/10.7910/DVN/P1TL97">Replication data</a><span class="award-tag">Kothari Award for Best Paper in South Asia (APSA)</span></p>
+  <p class="pub-links"><a href="https://tinyurl.com/yvy7k6jh">PDF</a><a href="https://doi.org/10.7910/DVN/P1TL97">Replication data</a><span class="award-tag">Kothari Award for Best Paper on South Asia (APSA)</span></p>
 </div>
 
 <div class="pub">

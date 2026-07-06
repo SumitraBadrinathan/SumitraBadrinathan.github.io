@@ -38,7 +38,7 @@ Americans, published with the Carnegie Endowment for International Peace.
   <div class="card">
     <span class="topic-tag">Identity</span>
     <h3><a href="https://carnegieendowment.org/research/2025/07/indian-americans-social-survey-data">How Indian Americans Live</a></h3>
-  <p> Results from the 2024 Indian American Attitudes Survey</p>
+  <p> 2024 Survey Results</p>
   </div>
   <div class="card">
     <span class="topic-tag">Foreign policy</span>
@@ -48,22 +48,22 @@ Americans, published with the Carnegie Endowment for International Peace.
   <div class="card">
     <span class="topic-tag">2024 election</span>
     <h3><a href="https://carnegieendowment.org/research/2024/10/indian-american-voters-election-survey-us">Indian Americans at the Ballot Box</a></h3>
-    <p>Results from the 2024 Indian American Attitudes Survey</p>
+    <p>2024 Survey Results</p>
   </div>
   <div class="card">
     <span class="topic-tag">Identity</span>
     <h3><a href="https://carnegieendowment.org/research/2021/06/social-realities-of-indian-americans-results-from-the-2020-indian-american-attitudes-survey">Social Realities of Indian Americans</a></h3>
-    <p>Results from the 2020 Indian American Attitudes Survey</p>
+    <p>2020 Survey Results</p>
   </div>
   <div class="card">
     <span class="topic-tag">India ties</span>
     <h3><a href="https://carnegieendowment.org/research/2021/02/how-do-indian-americans-view-india-results-from-the-2020-indian-american-attitudes-survey">How Do Indian Americans View India?</a></h3>
-    <p>Results from the 2020 Indian American Attitudes Survey</p>
+    <p>2020 Survey Results</p>
   </div>
   <div class="card">
     <span class="topic-tag">2020 election</span>
     <h3><a href="https://carnegieendowment.org/files/IAAS_full_final.pdf">How Will Indian Americans Vote?</a></h3>
-    <p>Results from the 2020 Indian American Attitudes Survey</p>
+    <p>2020 Survey Results</p>
   </div>
 </div>
 
